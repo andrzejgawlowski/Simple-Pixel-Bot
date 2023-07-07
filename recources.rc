@@ -1,0 +1,6 @@
+#ifndef rec
+#define rec
+
+MAINICON ICON "./favicon.ico"
+
+#endif rec// rec
